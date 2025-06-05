@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **IOX** codebase is currently in the **initial stage of refinement**. Each component of IOX codes are stored in the directories with the component name.
+The **IOX** codebase. Each component of IOX codes are stored in the directories with the component name.
 
 
 ## Directory Structure
