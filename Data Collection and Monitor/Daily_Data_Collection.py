@@ -24,11 +24,10 @@ async def main() -> None:
     client.load_cookies('adam_kane_cookie.json')
     my_list = []
     
-    with open("/a/bear.cs.fiu.edu./disk/bear-b/users/ashaf016/IO_USA_Onyx/Daily_List_1", "r") as fp:
+    with open("", "r") as fp:
         my_list = json.load(fp)
         
-    newpath = "/a/bear.cs.fiu.edu./disk/bear-b/users/ashaf016/IO_USA_Onyx/" +  str(current_date) + "/"
-    #newpath = "/home/mnemo/users/ashaf016/USA Influence Opearations/Monitor Daily Account/2024-09-27_2/"
+    newpath = "" +  str(current_date) + "/"
     if not os.path.exists(newpath):
         os.makedirs(newpath)
         
