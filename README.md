@@ -42,7 +42,8 @@ pip install -r requirements.txt
 ```
 
 
-## 📜 Citation
+
+### 📜 Citation
 
 If you use code in your research, please cite the following paper:
 
@@ -63,6 +64,6 @@ If you use code in your research, please cite the following paper:
 }
 ```
 
-## 📄 License
+### 📄 License
 This codebase is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
