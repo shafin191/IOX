@@ -39,6 +39,7 @@ You can install these dependencies using `pip` or `conda`. For example:
 ```bash
 conda install pytorch>=2.0.0 torchvision>=0.15.0
 pip install -r requirements.txt
+```
 
 
 ## 📜 Citation
