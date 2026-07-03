@@ -5,6 +5,11 @@
 The **IOX** codebase. Each component of IOX codes are stored in the directories with the component name.
 
 
+## 📌 IO-X Poster
+
+<img src="Poster/IOX-Poster.png" alt="IO-X Poster" width="850">
+
+
 ## Directory Structure
 
 The codebase is organized into directories based on different components. Below is a high-level overview of the directory structure:
